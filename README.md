@@ -1,10 +1,9 @@
 <div align="center">
 
-# Gyorgy Herczeg
 
 **Data Analyst | Retail & Customer Analytics | Forecasting**
 
-Based in Hungary, I build practical analytical tools and models that turn customer, market, and time-series data into clearer decisions.
+ I build practical analytical tools and models that turn customer, market, and time-series data into clearer decisions.
 
 </div>
 
