@@ -34,7 +34,7 @@ Python · PyTorch · TensorFlow · Machine Learning · Statistical Modeling · T
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hrczggyrgy&show_icons=true&theme=tokyonight&cache_seconds=86400)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrczggyrgy&theme=tokyonight&cache_seconds=86400)
-![Trophies](https://github-profile-trophy.vercel.app/?username=hrczggyrgy&theme=tokyonight&no-frame=true&cache_seconds=86400)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hrczggyrgy&theme=tokyonight&no-frame=true)
 
 ---
 
